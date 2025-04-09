@@ -1,0 +1,17 @@
+names:
+- blue
+- color-bomb
+- green
+- purple
+- red
+- yellow
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: candy-crush-saga-v3
+  url: https://universe.roboflow.com/heyliceeee/candy-crush-saga-v3/dataset/1
+  version: 1
+  workspace: heyliceeee
+test: D:/githubProjects/2025-ia-trabalhopratico/datasets/candy-crush-saga-v3-1/test/images
+train: D:/githubProjects/2025-ia-trabalhopratico/datasets/candy-crush-saga-v3-1/train/images
+val: D:/githubProjects/2025-ia-trabalhopratico/datasets/candy-crush-saga-v3-1/valid/images
