@@ -13,7 +13,11 @@ cache: false
 device: '0'
 workers: 8
 project: null
+<<<<<<<< HEAD:runs/detect/train/args.yaml
 name: train
+========
+name: train_jogo
+>>>>>>>> works_maybe:runs/detect/train_jogo/args.yaml
 exist_ok: false
 pretrained: true
 optimizer: auto
